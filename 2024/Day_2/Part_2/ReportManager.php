@@ -1,6 +1,6 @@
 <?php
 
-namespace Day_2\Part_1;
+namespace Day_2\Part_2;
 
 readonly class ReportManager
 {
