@@ -4,4 +4,4 @@ services:
         volumes:
             - .:/var/www/html/
         working_dir: /var/www/html/
-        command: ["php", "2024/Day_6/Part_2/part_2.php"]
+        command: ["php", "2024/Day_7/Part_1/main.php"]
